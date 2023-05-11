@@ -2,3 +2,12 @@ db:
   ip: 127.0.0.1
   port: 3306
   password: '{cipher}AQBXmkDR75RB6iTYm3dQJaWY5hkSrNY1B4flecqAxRt/jFp3YCF7hxWdaeXgAekqgki+fcKOzTn9ISfLlnC1z0mBIv3xLuxDa3qJsozMk1lA0ZwUL35Hq5ve8YWWMQXRFGF40CtRmHmk8dw/1CLRAfbM7vWB8MLo54exa2tVfsHpMgiqGneHhdxvtZZj4wyrvKO47tO9M/hfs7bgGYJDDE+mbk2aS0Aswpj+6XBJZsl6LgkYlSG1jM1rWEmoYU0SlqiB1VyY+PpTgwvOxFGiUYfGzJWOt/bgoXiZZO+iFLZTlM2KwnN2DzolhfwpjhxH1yEC0oeMhjzCZ8ctC796/KVRr2v8e8WZiKJgMSiOFeXaIp2PVRJkJ2pTB5Jck1jZFvA='
+
+
+# 数据库设置
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test_db?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8
+    username: root
+    password: '{cipher}AQAaebvdGqA2jNi3HwoEasHW1hXVAZhqSEWE4HknQxsiA08mbBwVYTGtZwLR9KOcY1ot/HV5VxDuCiebswR5qfw1J0SiMHekcdJVi00CnwvVRdnUiUr0NAgb1pghCynQauOpmQrLy9rf/HeBWQt6abR8RizyvC4fVS70N/ojq3mEf5bap3nHih0t8B00cw0bEs/hpjrAImwaIxqdQZsvuLyTCDFb81bw9XFJTQWFBZj+L5hKNiBD32GmX+P6J8CZPwiT3C4iwvY8ch+vacTiHF45KBUJEXEqNE9rRvyuZvBNBeCHwoJ3pbvsrtEy2NdfWw4ogUbFmB2cWqUyeE+PASr0akl0Q4bDivdzt9A/Vv4Fhl/yaTw56r4dW0AQmJcIYEM='
