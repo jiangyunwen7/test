@@ -1,6 +1,6 @@
 db:
   ip: 127.0.0.1
-  port: 3307
+  port: 3306
   password: '{cipher}AQBXmkDR75RB6iTYm3dQJaWY5hkSrNY1B4flecqAxRt/jFp3YCF7hxWdaeXgAekqgki+fcKOzTn9ISfLlnC1z0mBIv3xLuxDa3qJsozMk1lA0ZwUL35Hq5ve8YWWMQXRFGF40CtRmHmk8dw/1CLRAfbM7vWB8MLo54exa2tVfsHpMgiqGneHhdxvtZZj4wyrvKO47tO9M/hfs7bgGYJDDE+mbk2aS0Aswpj+6XBJZsl6LgkYlSG1jM1rWEmoYU0SlqiB1VyY+PpTgwvOxFGiUYfGzJWOt/bgoXiZZO+iFLZTlM2KwnN2DzolhfwpjhxH1yEC0oeMhjzCZ8ctC796/KVRr2v8e8WZiKJgMSiOFeXaIp2PVRJkJ2pTB5Jck1jZFvA='
 
 
